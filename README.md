@@ -44,7 +44,7 @@ Below is a preview of the Social links profile web page, showcasing its layout a
 
 ### Links
 
--   Live Site URL: [Recipe Page][website_link]
+-   Live Site URL: [Social Links Profile Page][website_link]
 -   Frontend Mentor Solution URL: [Challenge Solution Page][frontend_mentor_link]
 
 ### Repository Structure
