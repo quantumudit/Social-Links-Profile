@@ -156,8 +156,8 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 <!-- Project Specific Links -->
 
-[frontend_mentor_link]: https://www.frontendmentor.io/solutions/
-[website_link]: https://quantumudit.github.io/
+[frontend_mentor_link]: https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-flexbox-and-transitions-7EIVOER9Qg
+[website_link]: https://quantumudit.github.io/Social-Links-Profile/
 
 <!-- Profile Links -->
 
